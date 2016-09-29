@@ -1,6 +1,7 @@
 # Overlay Communication Network
+A distributed MOOC architecture
 
-## Documentation
+## Documentation(work in progress)
 This project provides you with a basic framework to build your
 nodes. This is not a complete project documentation, and has a lot of missing
 pieces that I'll update soon.
